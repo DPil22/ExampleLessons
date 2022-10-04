@@ -1,7 +1,7 @@
 module Definitions where
 
-test :: Int
-test = 1
+testValue :: Int
+testValue = 1
 
 increment :: Int -> Int
 increment a = a + 1
