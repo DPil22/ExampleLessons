@@ -18,9 +18,9 @@ namespace Loop
             for (int i = N; i <= x; i++) {
                 Console.Write(i + ".)");
                 if (i % 2 == 0) {
-                  Console.Write(" " + i + " is even", i);
+                  Console.Write(" " + i + " is even");
                 } else {
-                  Console.Write(" " + i + " is odd", i);
+                  Console.Write(" " + i + " is odd");
                 }
                 
                 if (i % 3 == 0) {
